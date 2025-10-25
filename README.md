@@ -6,6 +6,9 @@ Professional weather station based on ESP32 with TFT display and multiple sensor
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Author](https://img.shields.io/badge/author-Marautech-purple)
 
+## 📸 Previev
+![6046104065235684266](https://github.com/user-attachments/assets/858dc8a5-6725-4863-bff7-e645507594e9)
+
 
 ## ✨ Features
 
