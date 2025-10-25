@@ -285,7 +285,7 @@ uint16_t colorInside = (tempInside < 20) ? BLUE : (tempInside > 25) ? RED : GREE
 
 ## 👤 Author
 
-**Marautech**
+**Wisnia_S1**
 
 - GitHub: [@Marautech](https://github.com/Marautech)
 
